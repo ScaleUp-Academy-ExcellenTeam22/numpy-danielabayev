@@ -3,7 +3,7 @@ import numpy as np
 
 def ex2() -> list:
     """
-    NumPy program which create a vector of length 10 with values evenly distributed between 5 and 50.
+    NumPy program which creates a vector of length 10 with values evenly distributed between 5 and 50.
     :return: vector of the numbers.
     """
     vector = np.linspace(5, 49, 10)
